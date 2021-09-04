@@ -1,0 +1,26 @@
+[
+  {
+    "img": "../assets/images/sad-lady.jpg",
+    "alt": "Quote 1",
+    "name": "Need to change?",
+    "button": "Change Now"
+  },
+  {
+    "img": "../assets/images/man-at-table.jpg",
+    "alt": "Quote 2",
+    "name": "Feeling trapped?",
+    "button": "Change Now"
+  },
+  {
+    "img": "../assets/images/man-praying.jpg",
+    "alt": "Quote 3",
+    "name": "Unable to change?",
+    "button": "Change Now"
+  },
+  {
+    "img": "../assets/images/man-on-bench.jpg",
+    "alt": "Quote 4",
+    "name": "Worn out?",
+    "button": "Change Now"
+  }
+]
